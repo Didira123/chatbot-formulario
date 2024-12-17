@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é a capital do Brasil?",
+    "correct_answer": "Brasília",
+    "options": [
+      "São Paulo",
+      "Brasília",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qual é a maior montanha do mundo?",
+    "correct_answer": "Monte Everest",
+    "options": [
+      "K2",
+      "Monte Everest",
+      "Makalu"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Quem pintou a Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Em que ano o Brasil se tornou independente?",
+    "correct_answer": "1822",
+    "options": [
+      "1822",
+      "1889",
+      "1500"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Quem foi o primeiro homem a pisar na Lua?",
+    "correct_answer": "Neil Armstrong",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qual é o elemento químico representado pelo símbolo 'O'?",
+    "correct_answer": "Oxigênio",
+    "options": [
+      "Ouro",
+      "Oxigênio",
+      "Ósmio"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qual é o maior oceano do planeta?",
+    "correct_answer": "Oceano Pacífico",
+    "options": [
+      "Oceano Atlântico",
+      "Oceano Pacífico",
+      "Oceano Índico"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qual é a fórmula química da água?",
+    "correct_answer": "H2O",
+    "options": [
+      "CO2",
+      "O2",
+      "H2O"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Quem escreveu a peça 'Romeu e Julieta'?",
+    "correct_answer": "William Shakespeare",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Em que continente fica o Egito?",
+    "correct_answer": "África",
+    "options": [
+      "África",
+      "Ásia",
+      "Europa"
+    ]
+  }
+]
