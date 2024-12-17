@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "question": "Qual é a capital do Brasil?",
     "correct_answer": "Brasília",
     "options": [
@@ -10,7 +9,6 @@
     ]
   },
   {
-    "id": 2,
     "question": "Qual é a maior montanha do mundo?",
     "correct_answer": "Monte Everest",
     "options": [
@@ -20,7 +18,6 @@
     ]
   },
   {
-    "id": 3,
     "question": "Quem pintou a Mona Lisa?",
     "correct_answer": "Leonardo da Vinci",
     "options": [
@@ -30,7 +27,6 @@
     ]
   },
   {
-    "id": 4,
     "question": "Em que ano o Brasil se tornou independente?",
     "correct_answer": "1822",
     "options": [
@@ -40,7 +36,6 @@
     ]
   },
   {
-    "id": 5,
     "question": "Quem foi o primeiro homem a pisar na Lua?",
     "correct_answer": "Neil Armstrong",
     "options": [
@@ -50,7 +45,6 @@
     ]
   },
   {
-    "id": 6,
     "question": "Qual é o elemento químico representado pelo símbolo 'O'?",
     "correct_answer": "Oxigênio",
     "options": [
@@ -60,7 +54,6 @@
     ]
   },
   {
-    "id": 7,
     "question": "Qual é o maior oceano do planeta?",
     "correct_answer": "Oceano Pacífico",
     "options": [
@@ -70,7 +63,6 @@
     ]
   },
   {
-    "id": 8,
     "question": "Qual é a fórmula química da água?",
     "correct_answer": "H2O",
     "options": [
@@ -80,7 +72,6 @@
     ]
   },
   {
-    "id": 9,
     "question": "Quem escreveu a peça 'Romeu e Julieta'?",
     "correct_answer": "William Shakespeare",
     "options": [
@@ -90,7 +81,6 @@
     ]
   },
   {
-    "id": 10,
     "question": "Em que continente fica o Egito?",
     "correct_answer": "África",
     "options": [
